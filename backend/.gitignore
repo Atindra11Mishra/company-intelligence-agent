@@ -1,0 +1,39 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+.env
+.env.*
+
+# Logs
+*.log
+
+# Coverage / test
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Type checking / lint
+.mypy_cache/
+.ruff_cache/
+.pyright/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
