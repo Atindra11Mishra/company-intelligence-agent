@@ -10,19 +10,11 @@ The system researches public web signals such as company overview, funding, lead
 
 ### Landing Page
 
-> Add your first screenshot here
-
-```md
 ![Company Intelligence Agent Landing Page](./frontend/public/Screenshot%202026-06-05%20175017.png)
-```
 
 ### Generated Intelligence Report
 
-> Add your second screenshot here
-
-```md
 ![Generated Company Intelligence Report](./frontend/public/Screenshot%202026-06-05%20175028.png)
-```
 
 ---
 
